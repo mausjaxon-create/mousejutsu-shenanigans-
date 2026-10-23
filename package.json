@@ -1,0 +1,9 @@
+{
+  "name": "mousejutsu-shenanigans-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Online account and friends backend for Mousejutsu Shenanigans",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
